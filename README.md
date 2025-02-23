@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arsh Rana
-- 👀 I’m interested in Android and Web development
-- 🌱 I’m currently learning Flutter, postgreSQL, Kotlin and UI//UX designing using Figma
+- 👀 I’m interested in Web development
+- 🌱 I use MERN stack, PostgreSQL, Java Springboot
 - 📫 How to reach me => arshdeeprana1111@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I get the work done!!!
